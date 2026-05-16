@@ -1,5 +1,2 @@
-requirements.txt
-
-streamlit
-matplotlib
+rmatplotlib
 numpy
